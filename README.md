@@ -1,4 +1,4 @@
 Data Science 
 ============
 
-See wiki pages
+See [wiki](https://github.com/faridani/data-science/wiki) pages
